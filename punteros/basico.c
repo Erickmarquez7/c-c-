@@ -40,11 +40,6 @@ int main(){
     //si no en realidad 4 porque es el valor que un bit utiliza para guardar el numero
     printf("Valor de p: %d \n", p); //ejemplo 50254
     printf("Valor de p+1: %d \n", p+1);//entonces dará 50258
-
     
-    
-
-    
-
     return 0;
 }

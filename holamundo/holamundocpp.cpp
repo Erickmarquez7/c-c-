@@ -1,4 +1,6 @@
+// Biblioteca para la entrada y salida
 #include <iostream>
+
 using namespace std;
 
 int main(){
