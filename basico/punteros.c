@@ -11,11 +11,11 @@ int main(){
     //cuando le asiganamos una dirección con & se mantiene y lo que cambia
     //será la dirección de a
     int *p;
-    printf("Valor del puntero p: %d \n", p);
+    printf("Valor del puntero p: %d \n", p); 
 
     //sacamos la dirección de la variable con &
     p=&a;
-    printf("Dirección de a guardado en p: %d \n", p);
+    printf("Dirección de a guardado en p: %d \n", p);//dir
     //entonces debería ser el mismo
     printf("Dirección de &a: %d \n", &a);
 
